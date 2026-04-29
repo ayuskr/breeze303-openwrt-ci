@@ -1,5 +1,8 @@
 name: IPQ60XX-6.12-NOWIFI
 
+permissions:
+  contents: write
+  actions: write
 on:
   workflow_dispatch:
   schedule:
